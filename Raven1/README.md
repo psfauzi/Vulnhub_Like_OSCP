@@ -56,3 +56,6 @@ sudo -l , **command: sudo python -c 'import os; os.system("/bin/sh")'**
 <img width="458" alt="image" src="https://github.com/psfauzi/Vulnhub_Like_OSCP/assets/49013900/5fa91bf1-2f1a-4337-bab4-c159c97ebae3">
 
 
+```
+yee
+```
