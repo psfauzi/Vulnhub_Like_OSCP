@@ -56,6 +56,9 @@ sudo -l , **command: sudo python -c 'import os; os.system("/bin/sh")'**
 <img width="458" alt="image" src="https://github.com/psfauzi/Vulnhub_Like_OSCP/assets/49013900/5fa91bf1-2f1a-4337-bab4-c159c97ebae3">
 
 
+**Recomendation**
 ```
-yee
+1. Use strong password ,Set 8 digit minimum and combination with symbols.
+2. Use different username and password each service will be used.
+3. turn off privilege access for all application services that can be run via sudo, and make sure users can only access root with credentials such as a password or private key.
 ```
