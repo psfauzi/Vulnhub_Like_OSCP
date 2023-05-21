@@ -52,4 +52,19 @@ found interesting vulnerabillity
 
 
 
+try to exploiting smtp
+
+atfirst call to /var/mail/helios and follow step below:
+
+<img width="636" alt="image" src="https://github.com/psfauzi/Vulnhub_Like_OSCP/assets/49013900/f277acc0-505f-4828-beda-c332fb68b323">
+
+Success escalate to RCE 
+
+<img width="958" alt="image" src="https://github.com/psfauzi/Vulnhub_Like_OSCP/assets/49013900/06254711-373f-45b6-a943-31fbdff57f8c">
+
+
+
+
+
+
 
