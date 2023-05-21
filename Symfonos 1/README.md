@@ -48,5 +48,8 @@ command : **wpscan -e ap --url http://symfonos.local/h3l105 --api-token bxONVr2r
 
 found interesting vulnerabillity 
 
+<img width="951" alt="image" src="https://github.com/psfauzi/Vulnhub_Like_OSCP/assets/49013900/06da6d6f-291a-4558-9d70-d45879f94994">
+
+
 
 
