@@ -2,6 +2,7 @@ run command : **sudo nmap -sC -sV -T4 -sS  -vv 192.168.1.8
 **
 Result : 
 
+``
 PORT    STATE SERVICE     REASON         VERSION
 22/tcp  open  ssh         syn-ack ttl 64 OpenSSH 7.4p1 Debian 10+deb9u6 (protocol 2.0)
 | ssh-hostkey: 
@@ -90,7 +91,7 @@ Host script results:
 |   account_used: guest
 |   authentication_level: user
 |   challenge_response: supported
-|_  message_signing: disabled (dangerous, but default)
+|_  message_signing: disabled (dangerous, but default) ``
 
   
   
